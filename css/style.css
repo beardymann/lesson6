@@ -1,0 +1,137 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+.title {
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	padding: 15px;
+}
+
+.container {
+	background-color: #22B573;
+	width: 95%;
+	height: 87%;
+	margin-left: 2.5%
+}
+
+.border {
+	border-style: solid;
+	border-width: 4px;
+	border-color: green;
+}
+
+.box {
+	background-color: #29ABE2;
+	width: 91%;
+	height: 82%;
+	margin: 4%;
+}
+
+.border-2 {
+	border-style: solid;
+	border-width: 4px;
+	border-color: dodgerblue;
+}
+
+.title-2 {
+	font-size: 18px;
+	color: #ffffff;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+
+.box-child {
+	background-color: #FCEE21;
+	width: 93%;
+	height: 30%;
+	margin-top: 1%;
+	margin-left: 3%;
+	border-style: solid;
+	border-width: 4px;
+	border-color: gold;
+}
+
+.box-child2 {
+	background-color: #FCEE21;
+	width: 93%;
+	height: 47%;
+	margin-top: 3%;
+	margin-left: 3%;
+	border-style: solid;
+	border-width: 4px;
+	border-color: gold;
+}
+
+.text-2 {
+	text-align: center;
+	font-size: 50px;
+	color: #ffffff;
+	padding-top: 6%;
+}
+
+.child1 {
+	background-color: #ffffff;
+	width: 17%;
+	height: 70%;
+	margin-top: 2%;
+	margin-left: 2%;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #93278F;
+	float: right;
+	margin-right: 8%;
+}
+
+.mini-box {
+	background-color: #ED1E79;
+	width: 75%;
+	height: 70%;
+	margin-top: 7%;
+	margin-left: 12%;
+}
+
+.teqsti {
+	color: #fff;
+	text-align: center;
+	font-size: 15px;
+	padding-top: 15%;
+}
+
+.child2 {
+	background-color: #fff;
+	width: 17%;
+	height: 70%;
+	margin-top: 2%;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #93278F;
+	float: right;
+	margin-right: 5%;
+}
+
+.child3 {
+	background-color: #fff;
+	width: 17%;
+	height: 70%;
+	margin-top: 2%;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #93278F;
+	float: right;
+	margin-right: 5%;
+}
+
+.child4 {
+	background-color: #fff;
+	width: 17%;
+	height: 70%;
+	margin-top: 2%;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #93278F;
+	float: right;
+	margin-right: 5%;
+}
